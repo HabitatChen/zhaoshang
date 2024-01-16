@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "zhaoshang",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
